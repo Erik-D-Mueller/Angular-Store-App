@@ -1,3 +1,7 @@
+
+//This is the root module, this module represents the entire application.
+// Pretty much every single thing in the entire application is a child of this
+
 import { BrowserModule }       from '@angular/platform-browser';
 import { FormsModule }         from '@angular/forms';
 import { NgModule }     from '@angular/core';
